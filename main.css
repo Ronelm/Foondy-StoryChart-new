@@ -1,0 +1,425 @@
+
+/***************************
+MAIN MENU BUTTON
+****************************/
+
+
+.alpage1anchor:hover {
+ color: #c1ecff;
+}
+
+
+.MainMenuButton:hover {
+  color: #c1ecff;
+  border: solid #c1ecff;
+}
+
+.MainMenuButton {
+  display: block;
+  width:80px;
+  height: 14px;
+  margin: auto;
+  position: relative;top: 270px;left:-45px;
+  border:  solid #ffffff;
+  font-family: 'arial', calibra;
+  font-weight: 400;
+  color: white;
+  padding:15px;
+  font-size: 0.8em;
+  border-radius: 40px;
+  text-align:center;
+}
+
+#MainMenuButton {
+  width: 0;
+  margin:auto;
+}
+
+
+/***************************
+INDEX-PAGE - Center button
+****************************/
+
+
+/* Foondy story map button */
+
+
+.p-index:hover {
+  color: #c1ecff;
+  border: thick solid #c1ecff;
+}
+
+.p-index{
+  width:120px;
+  height: 70px;
+  margin: auto;
+  position: relative;top: 285px;left:18px;
+  border: thick solid #ffffff;
+  font-family: 'arial', calibra;
+  font-weight: 900;
+  color: white;
+  padding:25px;
+  font-size: 1.8em;
+  border-radius: 100px;
+  text-align:center;
+}
+
+
+.p-index2{
+  width:120px;
+  height: 70px;
+  margin: auto;
+  position: relative;top: -5px;
+  font-weight: 100;
+  padding:25px;
+  font-size: 0.5em;
+
+
+
+}
+a {
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+html{
+  background-color:#6db0d8;
+}
+
+/***************************
+STORY
+****************************/
+
+/* all buttons cleanup */
+
+.mainbuttons {
+  width: 0;
+  margin: auto;
+  position: relative;left:-100px
+}
+
+/* Al button */
+
+.p-al:hover {
+  color: #c1ecff;
+  border: thick solid #c1ecff;
+}
+
+.p-al{
+  width:120px;
+  position: relative;top: -50px;left:14px;
+  border: thick solid #ffffff;
+  font-family: 'arial', calibra;
+  font-weight: 400;
+  color: white;
+  padding:25px;
+  font-size: 1em;
+  border-radius: 100px;
+  text-align:center;
+}
+
+
+/* Tempman button */
+
+.p-tempman:hover {
+  color: #c1ecff;
+  border: thick solid #c1ecff;
+}
+
+.p-tempman {
+  width:120px;
+  position: relative;top: 320px;left:25px;
+  border: thick solid #ffffff;
+  font-family: 'arial', calibra;
+  font-weight: 400;
+  color: white;
+  padding:25px;
+  font-size: 1em;
+  border-radius: 100px;
+  text-align:center;
+}
+
+/* surdsquad button */
+
+
+.p-surdsquad:hover {
+  color: #c1ecff;
+  border: thick solid #c1ecff;
+}
+
+.p-surdsquad {
+  width:120px;
+  position: relative;top: -20px;left:300px;
+  border: thick solid #ffffff;
+  font-family: 'arial', calibra;
+  font-weight: 400;
+  color: white;
+  padding:25px;
+  font-size: 1em;
+  border-radius: 100px;
+  text-align:center;
+}
+
+
+/* Baron Zero button */
+
+.p-baronzero:hover {
+  color: #c1ecff;
+  border: thick solid #c1ecff;
+}
+
+.p-baronzero {
+  width:120px;
+  position: relative;top: -108px;left:-265px;
+  border: thick solid #ffffff;
+  font-family: 'arial', calibra;
+  font-weight: 400;
+  color: white;
+  padding:25px;
+  font-size: 1em;
+  border-radius: 100px;
+  text-align:center;
+}
+
+/***************************
+Al JABRA JONES SERIES
+****************************/
+
+
+/* Al Jabra Jones Main page */
+
+
+#Al-h1 {
+  color: white;
+  font-family: 'arial', calibra;
+  text-align:center;
+}
+
+#Al-p {
+  color: White;
+  font-family: 'arial', calibra;
+  text-align:center;
+}
+
+.p-Al{
+  width:200px;
+  height: 20px;
+  margin: auto;
+  position: relative;top: 100px;left:8px;
+  font-family: 'arial', calibra;
+  font-weight: 400;
+  padding:5px;
+  font-size: 1.1em;
+  text-align:center;
+
+}
+
+
+.alpage1anchor {
+  text-decoration: none;
+  color: white;
+}
+
+/* Al Jabra Jones Concept Art Page */
+
+.Al-html {
+background-color:#6db0d8;
+}
+
+/* Al Jabra Jones Character bible  */
+
+#Al-h1-characterbible {
+  color: white;
+  font-family: 'arial', calibra;
+  text-align:center;
+  margin-bottom: 2px;
+}
+
+#Al-p-characterbible {
+  color: white;
+  font-family: 'arial', calibra;
+  font-weight: 900;
+  font-size: 1.5em;
+  text-align:center;
+  margin-top: -2px;
+}
+
+.p-Al-characterbible {
+  width:200px;
+  height: 20px;
+  margin: auto;
+  position: relative;top: 80px;left:18px;
+  font-family: 'arial', calibra;
+  font-weight: 400;
+  color: white;
+  padding:5px;
+  font-size: 1.1em;
+
+
+}
+
+
+/* Al Jabra Jones Series List */
+
+#Al-h1-serieslist {
+  color: white;
+  font-family: 'arial', calibra;
+  text-align:center;
+  margin-bottom: 2px;
+}
+
+#Al-p-serieslist {
+  color: white;
+  font-family: 'arial', calibra;
+  font-weight: 900;
+  font-size: 1.5em;
+  text-align:center;
+  margin-top: -2px;
+}
+
+.p-Al-serieslist {
+  width:200px;
+  height: 20px;
+  margin: auto;
+  position: relative;top: 80px;left:18px;
+  font-family: 'arial', calibra;
+  font-weight: 400;
+  padding:5px;
+  font-size: 1.1em;
+  text-align:center;
+
+}
+
+.aljabra-serieslist-table  {
+  vertical-align: center ;
+  border-collapse: collapse;
+  width:50%;
+  margin-top: 100px;
+  margin-bottom: -80px;
+  font-family: 'arial', calibra;
+  color: white;
+
+}
+tr td  {
+  border: 1px solid rgb(109, 176, 216);
+  padding: 10px;
+  spacing: 10px;
+  background-color: #7695b7;
+  font-size: 0.9em;
+  color: #b5cde6;
+}
+
+th {
+  border: 2px solid rgb(109, 176, 216);
+  padding: 10px;
+  background-color: #8ddccb;
+}
+
+#serieslist-table-heading {
+  font-weight:900;
+  font-size: 1em;
+}
+
+.serieslist-table-subheadings {
+  font-size: 1em;
+  font-weight:900;
+  color: white;
+}
+
+/* Al Jabra Jones Quizzes*/
+
+#Al-h1-quizzes {
+  color: white;
+  font-family: 'arial', calibra;
+  text-align:center;
+  margin-bottom: 2px;
+}
+
+#Al-p-quizzes {
+  color: white;
+  font-family: 'arial', calibra;
+  font-weight: 900;
+  font-size: 1.5em;
+  text-align:center;
+  margin-top: -2px;
+}
+
+.p-Al-quizzes {
+  width:200px;
+  height: 20px;
+  margin: auto;
+  position: relative;top: 80px;left:18px;
+  font-family: 'arial', calibra;
+  font-weight: 400;
+  color: white;
+  padding:5px;
+  font-size: 1.1em;
+  text-align:center;
+
+}
+
+
+/* Al Jabra Jones Lesson Plans*/
+
+#Al-h1-lessonplans {
+  color: white;
+}
+
+
+/***************************
+BARON ZERO SERIES
+**************************/
+
+
+
+#Baron-p {
+  color: White;
+  font-family: 'arial', calibra;
+  text-align:center;
+}
+
+#Baron-h1 {
+  color: white;
+  font-family: 'arial', calibra;
+  text-align:center;
+
+}
+
+.p-baron{
+  width:200px;
+  height: 20px;
+  margin: auto;
+  position: relative;top: 100px;left:18px;
+  font-family: 'arial', calibra;
+  font-weight: 400;
+  padding:5px;
+  font-size: 1.1em;
+  text-align:center;
+
+}
+
+.baronpage1anchor {
+  text-decoration: none;
+  color: white;
+}
+
+.baron-Al{
+  width:200px;
+  height: 20px;
+  margin: auto;
+  position: relative;top: 100px;left:18px;
+  font-family: 'arial', calibra;
+  font-weight: 400;
+  padding:5px;
+  font-size: 1.1em;
+  text-align:center;
+
+}
+
+#Baron-p {
+  color: White;
+  font-family: 'arial', calibra;
+  text-align:center;
+  margin-bottom: 2px;
+  }
